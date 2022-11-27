@@ -1,2 +1,2 @@
-I love my code
-my code ia the best code in me home
+I love my code.
+My code is the best code what I can to do!
